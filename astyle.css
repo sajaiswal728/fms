@@ -1,0 +1,61 @@
+body{
+	background:url("heroimage.png")no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	
+}
+.box{
+	align:center;
+	width: 500px;
+	opacity:.8;
+	color:#ffffff;
+	font-color:#ffffff;
+	padding:25px;
+	font-size:25px;
+	font-family:Constantia;
+    margin:0 auto;
+	margin-top:30px;
+	background-color:#020202;
+	border-radius:20px;
+
+	}
+.box input[type="password"]{
+	width:200px;
+	height:30px;
+	border:1 solid black;
+	font-color:black;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;	
+}
+.box input[type="text"]{
+	width:200px;
+	height:30px;
+	border:1 solid black;
+	font-color:black;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+}
+.box input[type="SUBMIT"]{
+	width:150px;
+	height:30px;
+	border:0;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	background-color: skyblue;
+}
+.box input[type="button"]{
+	width:125px;
+	height:30px;
+	border:solid black 1px;
+	background-color:#febcee;
+}
+.box a{
+	text-decoration: none;
+	color:#ffffff; 
+}
